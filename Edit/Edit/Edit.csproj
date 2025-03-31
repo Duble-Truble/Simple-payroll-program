@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{358C9FB6-4F18-43E4-8DBF-02150A482505}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Edit</RootNamespace>
-    <AssemblyName>Edit</AssemblyName>
+    <RootNamespace>Payroler</RootNamespace>
+    <AssemblyName>Payroler</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -130,6 +130,7 @@
     </Content>
     <None Include="Resources\Artboard 1.png" />
     <None Include="Resources\Artboard 11.png" />
+    <None Include="Resources\%24this.Icon.ico" />
     <Content Include="SQLite.Interop.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
