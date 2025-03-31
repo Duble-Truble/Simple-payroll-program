@@ -1,0 +1,6 @@
+C:\Users\mihap\OneDrive\Namizje\bla\Edit\Edit\obj\Debug\Edit.Form1.resources
+C:\Users\mihap\OneDrive\Namizje\bla\Edit\Edit\obj\Debug\Edit.NovKlient.resources
+C:\Users\mihap\OneDrive\Namizje\bla\Edit\Edit\obj\Debug\Edit.NovPodjetje.resources
+C:\Users\mihap\OneDrive\Namizje\bla\Edit\Edit\obj\Debug\Edit.VpisUr.resources
+C:\Users\mihap\OneDrive\Namizje\bla\Edit\Edit\obj\Debug\Edit.izracun.resources
+C:\Users\mihap\OneDrive\Namizje\bla\Edit\Edit\obj\Debug\Edit.csproj.GenerateResource.cache
